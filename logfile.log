@@ -1,0 +1,20 @@
+2022-10-06 15:21:05,904 :INFO : test_end2end : login page testing some error occured
+2022-10-06 15:21:05,980 :INFO : test_end2end : wrong user ID
+2022-10-06 15:21:06,017 :INFO : test_end2end : Wrong password
+2022-10-06 15:21:23,651 :INFO : test_end2end : not a submit button
+2022-10-06 15:21:23,676 :INFO : test_end2end : validation not successfull
+2022-10-06 15:22:12,088 :INFO : test_end2end : login page testing some error occured
+2022-10-06 15:22:12,150 :INFO : test_end2end : wrong user ID
+2022-10-06 15:22:12,181 :INFO : test_end2end : Wrong password
+2022-10-06 15:22:18,989 :INFO : test_end2end : not a submit button
+2022-10-06 15:22:19,097 :INFO : test_end2end : validation not successfull
+2022-10-06 15:32:40,767 :INFO : test_end2end : login page testing some error occured
+2022-10-06 15:32:40,814 :INFO : test_end2end : wrong user ID
+2022-10-06 15:32:40,835 :INFO : test_end2end : Wrong password
+2022-10-06 15:32:46,274 :INFO : test_end2end : not a submit button
+2022-10-06 15:32:46,346 :INFO : test_end2end : validation not successfull
+2022-10-06 15:35:40,254 :INFO : test_end2end : login page object is created
+2022-10-06 15:35:40,287 :INFO : test_end2end : Wser ID entered + 9452087226
+2022-10-06 15:35:40,324 :INFO : test_end2end : is password correct ******
+2022-10-06 15:35:51,352 :INFO : test_end2end :  successfully submitted !! Welcome to Facebook home page
+2022-10-06 15:35:51,440 :INFO : test_end2end : validation  successfull

@@ -1,0 +1,554 @@
+1665039112412	geckodriver	INFO	Listening on 127.0.0.1:54212
+1665039115524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilergeTyL"
+1665039116096	Marionette	INFO	Marionette enabled
+1665039116101	Marionette	INFO	Listening on port 54222
+WebDriver BiDi listening on ws://127.0.0.1:54213
+Read port: 54222
+1665039116397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilergeTyL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54213/devtools/browser/520e2e2f-bd44-4b14-9582-1a76a8ae6eb4
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665039120851	Marionette	INFO	Stopped listening on port 54222
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1665039373110	geckodriver	INFO	Listening on 127.0.0.1:49165
+1665039376185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49166" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileTmjneh"
+1665039376762	Marionette	INFO	Marionette enabled
+1665039376766	Marionette	INFO	Listening on port 49176
+Read port: 49176
+WebDriver BiDi listening on ws://127.0.0.1:49166
+1665039376894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileTmjneh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49166/devtools/browser/48510a76-4dbd-4b50-9083-b3ff1a00cd92
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665049892468	Marionette	INFO	Stopped listening on port 49176
+39640456	Marionette	INFO	Listening on port 54881
+Read port: 54881
+WebDriver BiDi listening on ws://127.0.0.1:54871
+1665039640697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilebQwbWL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54871/devtools/browser/5142fab0-0c3a-4404-9213-04d45627d19c
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665049891868	Marionette	INFO	Stopped listening on port 54881
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileN9mYZc"
+1665039756392	Marionette	INFO	Marionette enabled
+1665039756399	Marionette	INFO	Listening on port 54994
+Read port: 54994
+WebDriver BiDi listening on ws://127.0.0.1:54983
+1665039756587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileN9mYZc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54983/devtools/browser/885a231a-1a44-4f99-8df4-2015c8e0a75d
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665049891909	Marionette	INFO	Stopped listening on port 54994
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileMRDowH"
+1665039797159	Marionette	INFO	Marionette enabled
+1665039797164	Marionette	INFO	Listening on port 55063
+Read port: 55063
+WebDriver BiDi listening on ws://127.0.0.1:55053
+1665039797309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileMRDowH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55053/devtools/browser/c0d80479-9449-4efa-8a6d-d38620208513
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 148: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665049891592	Marionette	INFO	Stopped listening on port 55063
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+7047	Marionette	INFO	Listening on port 55206
+Read port: 55206
+WebDriver BiDi listening on ws://127.0.0.1:55195
+1665039857239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileffXOmC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55195/devtools/browser/34ffc63d-dbf8-4809-9385-b06ab2442f47
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665049892528	Marionette	INFO	Stopped listening on port 55206
+e-debugging-port" "55265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilepdczOw"
+1665039891524	Marionette	INFO	Marionette enabled
+1665039891528	Marionette	INFO	Listening on port 55276
+Read port: 55276
+WebDriver BiDi listening on ws://127.0.0.1:55265
+1665039891734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilepdczOw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55265/devtools/browser/179063b6-2e1c-4b1e-a9ef-9e0437eab2c4
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665049892655	Marionette	INFO	Stopped listening on port 55276
+e-debugging-port" "55389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilehtRxoF"
+1665039962176	Marionette	INFO	Marionette enabled
+1665039962187	Marionette	INFO	Listening on port 55400
+Read port: 55400
+WebDriver BiDi listening on ws://127.0.0.1:55389
+1665039962415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilehtRxoF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55389/devtools/browser/ad1aef55-80bf-4be9-b5d5-c646cea6cd26
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3infq4/yP/l/makehaste_jhash/rGAtuS1rzMosi-OvQOy34xmmFUKtq3AnT1TL5KYVsXZpFKOoBDFoprfZ9ciVUsotBJZVocPi6ZMD_jX880_PmUa80Ie7U8cDy5lngEQMxCm-Cfp4bUHRslIwqXmTRN1BqGFDAN5FGA0sbcHOr3Psq0exUn92zgkv4s9X1XuLv7Wu-uPn.js?_nc_x=VjATwoH1HML, line 604: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3infq4/yP/l/makehaste_jhash/rGAtuS1rzMosi-OvQOy34xmmFUKtq3AnT1TL5KYVsXZpFKOoBDFoprfZ9ciVUsotBJZVocPi6ZMD_jX880_PmUa80Ie7U8cDy5lngEQMxCm-Cfp4bUHRslIwqXmTRN1BqGFDAN5FGA0sbcHOr3Psq0exUn92zgkv4s9X1XuLv7Wu-uPn.js?_nc_x=VjATwoH1HML, line 604: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 148: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2352))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665049892724	Marionette	INFO	Stopped listening on port 55400
+e-debugging-port" "63562" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileaQguKF"
+1665040253995	Marionette	INFO	Marionette enabled
+1665040254003	Marionette	INFO	Listening on port 63582
+Read port: 63582
+WebDriver BiDi listening on ws://127.0.0.1:63562
+1665040254160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileaQguKF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63562/devtools/browser/1c79f1fe-19ed-4a77-8655-246ad64f23e9
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 148: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1665043883423	Marionette	INFO	Stopped listening on port 63582
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 175: Error: StreamError: UNAUTHORIZED
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1665041514545	Marionette	INFO	Stopped listening on port 55137
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  Error: Shutdown, aborting read-only worker requests.
+console.error: services.settings: 
+  Message: Error: Shutdown, aborting read-only worker requests.
+  Stack:
+    _abortCancelableRequests@resource://services-settings/RemoteSettingsWorker.jsm:145:19
+@resource://services-settings/RemoteSettingsWorker.jsm:221:28
+trigger@resource://gre/modules/AsyncShutdown.jsm:748:23
+_wait@resource://gre/modules/AsyncShutdown.jsm:900:15
+wait@resource://gre/modules/AsyncShutdown.jsm:881:34
+observe@resource://gre/modules/AsyncShutdown.jsm:558:10
+
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+1665041658839	geckodriver	INFO	Listening on 127.0.0.1:58931
+1665041661895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileASXdlK"
+1665041662485	Marionette	INFO	Marionette enabled
+1665041662490	Marionette	INFO	Listening on port 58943
+Read port: 58943
+WebDriver BiDi listening on ws://127.0.0.1:58932
+1665041662654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileASXdlK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58932/devtools/browser/7ff6c07b-afef-4c04-b42b-85c03f3c4fdf
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665049891885	Marionette	INFO	Stopped listening on port 58943
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileiq5JnE"
+1665041735593	Marionette	INFO	Marionette enabled
+1665041735599	Marionette	INFO	Listening on port 64064
+Read port: 64064
+WebDriver BiDi listening on ws://127.0.0.1:64053
+1665041735768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileiq5JnE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64053/devtools/browser/57b0e8b8-bc45-40ad-8004-cf94e7f31854
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665049891997	Marionette	INFO	Stopped listening on port 64064
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilecklcM8"
+1665041821016	Marionette	INFO	Marionette enabled
+1665041821020	Marionette	INFO	Listening on port 64156
+Read port: 64156
+WebDriver BiDi listening on ws://127.0.0.1:64146
+1665041821267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilecklcM8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64146/devtools/browser/49a434b4-1d6b-4ada-b8e0-f6e94ac3b7f3
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665041830119	Marionette	INFO	Stopped listening on port 64156
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665042379843	geckodriver	INFO	Listening on 127.0.0.1:64524
+1665042382908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilek9tIn4"
+1665042383541	Marionette	INFO	Marionette enabled
+1665042383551	Marionette	INFO	Listening on port 64537
+Read port: 64537
+WebDriver BiDi listening on ws://127.0.0.1:64525
+1665042383729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilek9tIn4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64525/devtools/browser/f1c59ced-a4c8-4960-b7bb-6168afc3819e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+1665042394002	Marionette	INFO	Stopped listening on port 64537
+1665042431548	geckodriver	INFO	Listening on 127.0.0.1:52709
+1665042434579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52710" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofile8lMZTf"
+1665042435131	Marionette	INFO	Marionette enabled
+1665042435135	Marionette	INFO	Listening on port 52721
+Read port: 52721
+WebDriver BiDi listening on ws://127.0.0.1:52710
+1665042435233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofile8lMZTf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52710/devtools/browser/5a6d8666-df3f-4669-b238-bf5b16d46cf0
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 148: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665042446234	Marionette	INFO	Stopped listening on port 52721
+1665042588530	geckodriver	INFO	Listening on 127.0.0.1:52878
+1665042591592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileaKkzQf"
+1665042592018	Marionette	INFO	Marionette enabled
+1665042592024	Marionette	INFO	Listening on port 52889
+Read port: 52889
+WebDriver BiDi listening on ws://127.0.0.1:52879
+1665042592139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileaKkzQf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52879/devtools/browser/c3d26d3b-e069-40e2-aa5c-4cdfe47d9fef
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+1665042605729	Marionette	INFO	Stopped listening on port 52889
+1665043055307	geckodriver	INFO	Listening on 127.0.0.1:53178
+1665043058337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileHo3WRM"
+1665043058851	Marionette	INFO	Marionette enabled
+1665043058859	Marionette	INFO	Listening on port 53190
+Read port: 53190
+WebDriver BiDi listening on ws://127.0.0.1:53179
+1665043059017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileHo3WRM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53179/devtools/browser/6ab70424-c721-4682-8b9a-aa735ca16a87
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665043063322	Marionette	INFO	Stopped listening on port 53190
+1665043120373	geckodriver	INFO	Listening on 127.0.0.1:54132
+1665043123425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileQt7RTi"
+1665043123851	Marionette	INFO	Marionette enabled
+1665043123857	Marionette	INFO	Listening on port 54144
+Read port: 54144
+WebDriver BiDi listening on ws://127.0.0.1:54133
+1665043123974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileQt7RTi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54133/devtools/browser/2e20e4d9-bf8b-4b74-af42-f041756f13e5
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 148: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665043137377	Marionette	INFO	Stopped listening on port 54144
+1665043518552	geckodriver	INFO	Listening on 127.0.0.1:54445
+1665043521593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54446" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileVWETV0"
+1665043522088	Marionette	INFO	Marionette enabled
+1665043522095	Marionette	INFO	Listening on port 54456
+Read port: 54456
+WebDriver BiDi listening on ws://127.0.0.1:54446
+1665043522212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileVWETV0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54446/devtools/browser/1b8a2feb-37c5-46c4-955c-23534d66af4d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665043526472	Marionette	INFO	Stopped listening on port 54456
+1665043604467	geckodriver	INFO	Listening on 127.0.0.1:59661
+1665043607526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59662" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileTWkbcG"
+1665043607920	Marionette	INFO	Marionette enabled
+1665043607924	Marionette	INFO	Listening on port 59673
+WebDriver BiDi listening on ws://127.0.0.1:59662
+Read port: 59673
+1665043608131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileTWkbcG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59662/devtools/browser/ffd36d8f-7f48-479c-a7bb-c634dd5b8917
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665043612175	Marionette	INFO	Stopped listening on port 59673
+1665043656495	geckodriver	INFO	Listening on 127.0.0.1:59727
+1665043659557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileyG8645"
+1665043660031	Marionette	INFO	Marionette enabled
+1665043660039	Marionette	INFO	Listening on port 59738
+Read port: 59738
+WebDriver BiDi listening on ws://127.0.0.1:59728
+1665043660218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileyG8645\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59728/devtools/browser/62468d96-131c-46cd-bc3f-f3af1b7d15dd
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+1665043671224	Marionette	INFO	Stopped listening on port 59738
+1665043735892	geckodriver	INFO	Listening on 127.0.0.1:59835
+1665043738960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59836" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileALefJu"
+1665043739388	Marionette	INFO	Marionette enabled
+1665043739394	Marionette	INFO	Listening on port 59846
+Read port: 59846
+WebDriver BiDi listening on ws://127.0.0.1:59836
+1665043739525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileALefJu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59836/devtools/browser/4fb41e95-1e16-4195-b044-0b90f83b3d4d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+1665043749526	Marionette	INFO	Stopped listening on port 59846
+1665043890617	geckodriver	INFO	Listening on 127.0.0.1:59978
+1665043893651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileDy6QAS"
+1665043894286	Marionette	INFO	Marionette enabled
+1665043894294	Marionette	INFO	Listening on port 59990
+Read port: 59990
+WebDriver BiDi listening on ws://127.0.0.1:59979
+1665043894445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileDy6QAS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59979/devtools/browser/31a7d08c-74f1-4939-9029-69fe0f25f30a
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+1665043904429	Marionette	INFO	Stopped listening on port 59990
+1665044101699	geckodriver	INFO	Listening on 127.0.0.1:57063
+1665044104775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57064" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilef5PYmg"
+1665044105407	Marionette	INFO	Marionette enabled
+1665044105414	Marionette	INFO	Listening on port 57075
+Read port: 57075
+WebDriver BiDi listening on ws://127.0.0.1:57064
+1665044105544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilef5PYmg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57064/devtools/browser/1efaa8cf-5f43-4c17-8cef-531e52cb0411
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+1665044116663	Marionette	INFO	Stopped listening on port 57075
+1665044388391	geckodriver	INFO	Listening on 127.0.0.1:57280
+1665044391466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofile2Y46g0"
+1665044391881	Marionette	INFO	Marionette enabled
+1665044391885	Marionette	INFO	Listening on port 57292
+Read port: 57292
+WebDriver BiDi listening on ws://127.0.0.1:57281
+1665044392027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofile2Y46g0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57281/devtools/browser/d73e9cea-adcd-48e3-9d5d-d0879caa5ab3
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+1665044405289	Marionette	INFO	Stopped listening on port 57292
+1665048185429	geckodriver	INFO	Listening on 127.0.0.1:59374
+1665048188487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilehuLnE3"
+1665048189111	Marionette	INFO	Marionette enabled
+1665048189123	Marionette	INFO	Listening on port 59384
+Read port: 59384
+WebDriver BiDi listening on ws://127.0.0.1:59375
+1665048189272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilehuLnE3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59375/devtools/browser/4dc54cbb-1188-48e0-8c01-3ced354e2c06
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665048193746	Marionette	INFO	Stopped listening on port 59384
+1665048238465	geckodriver	INFO	Listening on 127.0.0.1:59414
+1665048241507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileEsvmY6"
+1665048241994	Marionette	INFO	Marionette enabled
+1665048242001	Marionette	INFO	Listening on port 59424
+Read port: 59424
+WebDriver BiDi listening on ws://127.0.0.1:59415
+1665048242144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileEsvmY6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59415/devtools/browser/b62f640f-7772-4331-8fd4-5f67aed21069
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+1665048251583	Marionette	INFO	Stopped listening on port 59424
+1665048283432	geckodriver	INFO	Listening on 127.0.0.1:59463
+1665048286468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59464" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileeW1kJv"
+1665048286878	Marionette	INFO	Marionette enabled
+1665048286883	Marionette	INFO	Listening on port 59473
+Read port: 59473
+WebDriver BiDi listening on ws://127.0.0.1:59464
+1665048287011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileeW1kJv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59464/devtools/browser/f8a107f4-7697-4458-8eaf-619ac4ab1406
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+1665048297083	Marionette	INFO	Stopped listening on port 59473
+1665048399655	geckodriver	INFO	Listening on 127.0.0.1:59569
+1665048402684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59570" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileZX5sMW"
+1665048403122	Marionette	INFO	Marionette enabled
+1665048403126	Marionette	INFO	Listening on port 59579
+Read port: 59579
+WebDriver BiDi listening on ws://127.0.0.1:59570
+1665048403256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileZX5sMW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59570/devtools/browser/7dfe38a6-8a4f-4903-8e00-717d112eb0f1
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+1665048428218	Marionette	INFO	Stopped listening on port 59579
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 148: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665049807035	geckodriver	INFO	Listening on 127.0.0.1:59804
+1665049810060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileRzdWWP"
+1665049810656	Marionette	INFO	Marionette enabled
+1665049810663	Marionette	INFO	Listening on port 59814
+Read port: 59814
+WebDriver BiDi listening on ws://127.0.0.1:59805
+1665049810862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileRzdWWP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59805/devtools/browser/5b04c1c3-fc93-43ec-be15-9d2177b6eee1
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665049815654	Marionette	INFO	Stopped listening on port 59814
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1665049857946	geckodriver	INFO	Listening on 127.0.0.1:59844
+1665049860992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileMfAOyv"
+1665049861360	Marionette	INFO	Marionette enabled
+1665049861368	Marionette	INFO	Listening on port 59855
+Read port: 59855
+WebDriver BiDi listening on ws://127.0.0.1:59845
+1665049861586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileMfAOyv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59845/devtools/browser/5ca59447-5721-4c09-95ae-3affe5af834b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iysB4/yc/l/makehaste_jhash/kY4h8ATCkom.js?_nc_x=VjATwoH1HML, line 148: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1665049883679	Marionette	INFO	Stopped listening on port 59855
+1665049924801	geckodriver	INFO	Listening on 127.0.0.1:59968
+1665049927860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileJ4lG2l"
+1665049928438	Marionette	INFO	Marionette enabled
+1665049928443	Marionette	INFO	Listening on port 59978
+WebDriver BiDi listening on ws://127.0.0.1:59969
+Read port: 59978
+1665049928767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileJ4lG2l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59969/devtools/browser/884b95a6-fe01-4cbd-9586-0d7c922419b3
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+1665049939102	Marionette	INFO	Stopped listening on port 59978
+1665050553687	geckodriver	INFO	Listening on 127.0.0.1:58784
+1665050556742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilezXm9QM"
+1665050557039	Marionette	INFO	Marionette enabled
+1665050557042	Marionette	INFO	Listening on port 58794
+Read port: 58794
+WebDriver BiDi listening on ws://127.0.0.1:58785
+1665050557164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofilezXm9QM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58785/devtools/browser/d17de247-4a45-44ca-97f6-8e81a7449c0e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3infq4/yZ/l/makehaste_jhash/HoXE0CvD3Y-si-OvQOy34x1oGrUBoMPzZ1TL5KYVsXZpFKOoBDFoprfZ9ciVUsotBJZVocPi6ZMD_jX880_PmUa80Ie7U8cDy5l9ksLTZ8QyUBp4bUHRslIwqXmTRN1BqGFDAN5FGA0sbcHOr3Psq0exUnRmV7CjVHbmo.js?_nc_x=VjATwoH1HML, line 604: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3infq4/yZ/l/makehaste_jhash/HoXE0CvD3Y-si-OvQOy34x1oGrUBoMPzZ1TL5KYVsXZpFKOoBDFoprfZ9ciVUsotBJZVocPi6ZMD_jX880_PmUa80Ie7U8cDy5l9ksLTZ8QyUBp4bUHRslIwqXmTRN1BqGFDAN5FGA0sbcHOr3Psq0exUnRmV7CjVHbmo.js?_nc_x=VjATwoH1HML, line 604: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3infq4/yZ/l/makehaste_jhash/HoXE0CvD3Y-si-OvQOy34x1oGrUBoMPzZ1TL5KYVsXZpFKOoBDFoprfZ9ciVUsotBJZVocPi6ZMD_jX880_PmUa80Ie7U8cDy5l9ksLTZ8QyUBp4bUHRslIwqXmTRN1BqGFDAN5FGA0sbcHOr3Psq0exUnRmV7CjVHbmo.js?_nc_x=VjATwoH1HML, line 604: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3infq4/yZ/l/makehaste_jhash/HoXE0CvD3Y-si-OvQOy34x1oGrUBoMPzZ1TL5KYVsXZpFKOoBDFoprfZ9ciVUsotBJZVocPi6ZMD_jX880_PmUa80Ie7U8cDy5l9ksLTZ8QyUBp4bUHRslIwqXmTRN1BqGFDAN5FGA0sbcHOr3Psq0exUnRmV7CjVHbmo.js?_nc_x=VjATwoH1HML, line 604: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3infq4/yZ/l/makehaste_jhash/HoXE0CvD3Y-si-OvQOy34x1oGrUBoMPzZ1TL5KYVsXZpFKOoBDFoprfZ9ciVUsotBJZVocPi6ZMD_jX880_PmUa80Ie7U8cDy5l9ksLTZ8QyUBp4bUHRslIwqXmTRN1BqGFDAN5FGA0sbcHOr3Psq0exUnRmV7CjVHbmo.js?_nc_x=VjATwoH1HML, line 604: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3infq4/yZ/l/makehaste_jhash/HoXE0CvD3Y-si-OvQOy34x1oGrUBoMPzZ1TL5KYVsXZpFKOoBDFoprfZ9ciVUsotBJZVocPi6ZMD_jX880_PmUa80Ie7U8cDy5l9ksLTZ8QyUBp4bUHRslIwqXmTRN1BqGFDAN5FGA0sbcHOr3Psq0exUnRmV7CjVHbmo.js?_nc_x=VjATwoH1HML, line 604: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3infq4/yZ/l/makehaste_jhash/HoXE0CvD3Y-si-OvQOy34x1oGrUBoMPzZ1TL5KYVsXZpFKOoBDFoprfZ9ciVUsotBJZVocPi6ZMD_jX880_PmUa80Ie7U8cDy5l9ksLTZ8QyUBp4bUHRslIwqXmTRN1BqGFDAN5FGA0sbcHOr3Psq0exUnRmV7CjVHbmo.js?_nc_x=VjATwoH1HML, line 604: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3infq4/yZ/l/makehaste_jhash/HoXE0CvD3Y-si-OvQOy34x1oGrUBoMPzZ1TL5KYVsXZpFKOoBDFoprfZ9ciVUsotBJZVocPi6ZMD_jX880_PmUa80Ie7U8cDy5l9ksLTZ8QyUBp4bUHRslIwqXmTRN1BqGFDAN5FGA0sbcHOr3Psq0exUnRmV7CjVHbmo.js?_nc_x=VjATwoH1HML, line 604: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3infq4/yZ/l/makehaste_jhash/HoXE0CvD3Y-si-OvQOy34x1oGrUBoMPzZ1TL5KYVsXZpFKOoBDFoprfZ9ciVUsotBJZVocPi6ZMD_jX880_PmUa80Ie7U8cDy5l9ksLTZ8QyUBp4bUHRslIwqXmTRN1BqGFDAN5FGA0sbcHOr3Psq0exUnRmV7CjVHbmo.js?_nc_x=VjATwoH1HML, line 604: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3infq4/yZ/l/makehaste_jhash/HoXE0CvD3Y-si-OvQOy34x1oGrUBoMPzZ1TL5KYVsXZpFKOoBDFoprfZ9ciVUsotBJZVocPi6ZMD_jX880_PmUa80Ie7U8cDy5l9ksLTZ8QyUBp4bUHRslIwqXmTRN1BqGFDAN5FGA0sbcHOr3Psq0exUnRmV7CjVHbmo.js?_nc_x=VjATwoH1HML, line 604: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3infq4/yZ/l/makehaste_jhash/HoXE0CvD3Y-si-OvQOy34x1oGrUBoMPzZ1TL5KYVsXZpFKOoBDFoprfZ9ciVUsotBJZVocPi6ZMD_jX880_PmUa80Ie7U8cDy5l9ksLTZ8QyUBp4bUHRslIwqXmTRN1BqGFDAN5FGA0sbcHOr3Psq0exUnRmV7CjVHbmo.js?_nc_x=VjATwoH1HML, line 604: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1665050566349	Marionette	INFO	Stopped listening on port 58794
+1665050733000	geckodriver	INFO	Listening on 127.0.0.1:62132
+1665050736051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileZBUj6B"
+1665050736314	Marionette	INFO	Marionette enabled
+1665050736317	Marionette	INFO	Listening on port 62142
+Read port: 62142
+WebDriver BiDi listening on ws://127.0.0.1:62133
+1665050736510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\singh\\AppData\\Local\\Temp\\rust_mozprofileZBUj6B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62133/devtools/browser/ca4bcba2-cc49-420a-8dd8-d52d095ca0e9
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+1665050751444	Marionette	INFO	Stopped listening on port 62142
